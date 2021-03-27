@@ -1,2058 +1,879 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="1mais1">
-    <display-name lang="pt">1mais1</display-name>
-    <icon src="http://www.guia-tv.pt/logos/1mais1.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="24-kitchen">
-    <display-name lang="pt">24-kitchen</display-name>
-    <icon src="http://www.guia-tv.pt/logos/24-kitchen.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="24-kitchen-hd">
-    <display-name lang="pt">24-kitchen-hd</display-name>
-    <icon src="http://www.guia-tv.pt/logos/24-kitchen-hd.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="a-bola-tv">
-    <display-name lang="pt">a-bola-tv</display-name>
-    <icon src="http://www.guia-tv.pt/logos/a-bola-tv.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="afro-music">
-    <display-name lang="pt">afro-music</display-name>
-    <icon src="http://www.guia-tv.pt/logos/afro-music.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="aljazeera">
-    <display-name lang="pt">aljazeera</display-name>
-    <icon src="http://www.guia-tv.pt/logos/aljazeera.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="amc">
-    <display-name lang="pt">amc</display-name>
-    <icon src="http://www.guia-tv.pt/logos/amc.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="amc-hd">
-    <display-name lang="pt">amc-hd</display-name>
-    <icon src="http://www.guia-tv.pt/logos/amc-hd.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="angelus-tv">
-    <display-name lang="pt">angelus-tv</display-name>
-    <icon src="http://www.guia-tv.pt/logos/angelus-tv.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="artv">
-    <display-name lang="pt">artv</display-name>
-    <icon src="http://www.guia-tv.pt/logos/artv.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axn">
-    <display-name lang="pt">axn</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axn.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axn-bl">
-    <display-name lang="pt">axn-bl</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axn-bl.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axb-hd">
-    <display-name lang="pt">axb-hd</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axb-hd.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axn-hd">
-    <display-name lang="pt">axn-hd</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axn-hd.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axn-white">
-    <display-name lang="pt">axn-white</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axn-white.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="axn-white-hd">
-    <display-name lang="pt">axn-white-hd</display-name>
-    <icon src="http://www.guia-tv.pt/logos/axn-white-hd.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="baby-first-tv">
-    <display-name lang="pt">baby-first-tv</display-name>
-    <icon src="http://www.guia-tv.pt/logos/baby-first-tv.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="bbc-entertainment">
-    <display-name lang="pt">bbc-entertainment</display-name>
-    <icon src="http://www.guia-tv.pt/logos/bbc-entertainment.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="bbc-world">
-    <display-name lang="pt">bbc-world</display-name>
-    <icon src="http://www.guia-tv.pt/logos/bbc-world.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="benfica-tv-1">
-    <display-name lang="pt">benfica-tv-1</display-name>
-    <icon src="http://www.guia-tv.pt/logos/benfica-tv-1.png" />
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="benfica-tv-hd">
-    <display-name lang="pt">benfica-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="bloomberg">
-    <display-name lang="pt">bloomberg</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="bnt">
-    <display-name lang="pt">bnt</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="caca-e-pesca">
-    <display-name lang="pt">caca-e-pesca</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cacavision">
-    <display-name lang="pt">cacavision</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="canal-180">
-    <display-name lang="pt">canal-180</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="canal-arte">
-    <display-name lang="pt">canal-arte</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cancao-nova">
-    <display-name lang="pt">cancao-nova</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cartoon-network">
-    <display-name lang="pt">cartoon-network</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cbs-reality">
-    <display-name lang="pt">cbs-reality</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cctv-4">
-    <display-name lang="pt">cctv-4</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cctv-news">
-    <display-name lang="pt">cctv-news</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="channel-1-russia">
-    <display-name lang="pt">channel-1-russia</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cinemundo">
-    <display-name lang="pt">cinemundo</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cinemundo-hd">
-    <display-name lang="pt">cinemundo-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="clubbing-tv">
-    <display-name lang="pt">clubbing-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="clubbing-tv-hd">
-    <display-name lang="pt">clubbing-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cmtv">
-    <display-name lang="pt">cmtv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cmtv-hd">
-    <display-name lang="pt">cmtv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cnbc-europe">
-    <display-name lang="pt">cnbc-europe</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cnn">
-    <display-name lang="pt">cnn</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="cubavision">
-    <display-name lang="pt">cubavision</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="deutsche-welle">
-    <display-name lang="pt">deutsche-welle</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="discovery-channel">
-    <display-name lang="pt">discovery-channel</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="discovery-channel-hd">
-    <display-name lang="pt">discovery-channel-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="disney-channel">
-    <display-name lang="pt">disney-channel</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="disney-junior">
-    <display-name lang="pt">disney-junior</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="dogtv">
-    <display-name lang="pt">dogtv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="e-entertainment">
-    <display-name lang="pt">e-entertainment</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="e-entertainment-hd">
-    <display-name lang="pt">e-entertainment-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eleven-sports-1">
-    <display-name lang="pt">eleven-sports-1</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eleven-sports-2">
-    <display-name lang="pt">eleven-sports-2</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eleven-sports-3">
-    <display-name lang="pt">eleven-sports-3</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eurochannel">
-    <display-name lang="pt">eurochannel</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="euronews">
-    <display-name lang="pt">euronews</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eurosport">
-    <display-name lang="pt">eurosport</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eurosport-2">
-    <display-name lang="pt">eurosport-2</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="eurosport-hd">
-    <display-name lang="pt">eurosport-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="ftv">
-    <display-name lang="pt">ftv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="ftv-hd">
-    <display-name lang="pt">ftv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fight-network">
-    <display-name lang="pt">fight-network</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox">
-    <display-name lang="pt">fox</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-comedy">
-    <display-name lang="pt">fox-comedy</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-comedy-hd">
-    <display-name lang="pt">fox-comedy-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-crime">
-    <display-name lang="pt">fox-crime</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-crime-hd">
-    <display-name lang="pt">fox-crime-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-hd">
-    <display-name lang="pt">fox-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-life">
-    <display-name lang="pt">fox-life</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-life-hd">
-    <display-name lang="pt">fox-life-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-movies">
-    <display-name lang="pt">fox-movies</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-movies-hd">
-    <display-name lang="pt">fox-movies-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fox-news">
-    <display-name lang="pt">fox-news</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="fr24f">
-    <display-name lang="pt">fr24f</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="france-24-i">
-    <display-name lang="pt">france-24-i</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="globo">
-    <display-name lang="pt">globo</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="globovision">
-    <display-name lang="pt">globovision</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="historia">
-    <display-name lang="pt">historia</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="hollywood">
-    <display-name lang="pt">hollywood</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="hollywood-hd">
-    <display-name lang="pt">hollywood-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="hot">
-    <display-name lang="pt">hot</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="hot-hd">
-    <display-name lang="pt">hot-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="i24-news-f">
-    <display-name lang="pt">i24-news-f</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="i24-news-i">
-    <display-name lang="pt">i24-news-i</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="iconcerts">
-    <display-name lang="pt">iconcerts</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="jimjam">
-    <display-name lang="pt">jimjam</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="kbs-world">
-    <display-name lang="pt">kbs-world</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="kombat-sport">
-    <display-name lang="pt">kombat-sport</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="kombat-sport-hd">
-    <display-name lang="pt">kombat-sport-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="luxe-tv-hd">
-    <display-name lang="pt">luxe-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="m6">
-    <display-name lang="pt">m6</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mas-chic">
-    <display-name lang="pt">mas-chic</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mcm-pop">
-    <display-name lang="pt">mcm-pop</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mcm-top">
-    <display-name lang="pt">mcm-top</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mezzo">
-    <display-name lang="pt">mezzo</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mezzo-live-hd">
-    <display-name lang="pt">mezzo-live-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-dance">
-    <display-name lang="pt">mtv-dance</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-live-hd">
-    <display-name lang="pt">mtv-live-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-music">
-    <display-name lang="pt">mtv-music</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-portugal">
-    <display-name lang="pt">mtv-portugal</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-portugal-hd">
-    <display-name lang="pt">mtv-portugal-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="mtv-rocks">
-    <display-name lang="pt">mtv-rocks</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="national-geographic">
-    <display-name lang="pt">national-geographic</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="national-geographic-hd">
-    <display-name lang="pt">national-geographic-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="nba-tv-hd">
-    <display-name lang="pt">nba-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="odisseia">
-    <display-name lang="pt">odisseia</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="panda">
-    <display-name lang="pt">panda</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="panda-biggs">
-    <display-name lang="pt">panda-biggs</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="pfc">
-    <display-name lang="pt">pfc</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="phoenix-cne">
-    <display-name lang="pt">phoenix-cne</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="playboy-tv">
-    <display-name lang="pt">playboy-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="playboy-tv-hd">
-    <display-name lang="pt">playboy-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="porto-canal">
-    <display-name lang="pt">porto-canal</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="pro-tv-internacional">
-    <display-name lang="pt">pro-tv-internacional</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="q">
-    <display-name lang="pt">q</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="record-news">
-    <display-name lang="pt">record-news</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-1">
-    <display-name lang="pt">rtp-1</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-2">
-    <display-name lang="pt">rtp-2</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-3">
-    <display-name lang="pt">rtp-3</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-acores">
-    <display-name lang="pt">rtp-acores</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-africa">
-    <display-name lang="pt">rtp-africa</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-madeira">
-    <display-name lang="pt">rtp-madeira</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-memoria">
-    <display-name lang="pt">rtp-memoria</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-mobile">
-    <display-name lang="pt">rtp-mobile</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtp-1-hd">
-    <display-name lang="pt">rtp-1-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="rtr-planeta">
-    <display-name lang="pt">rtr-planeta</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="russia-today">
-    <display-name lang="pt">russia-today</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="set-asia">
-    <display-name lang="pt">set-asia</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="set-max">
-    <display-name lang="pt">set-max</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sextreme">
-    <display-name lang="pt">sextreme</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic">
-    <display-name lang="pt">sic</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-caras">
-    <display-name lang="pt">sic-caras</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-hd">
-    <display-name lang="pt">sic-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-k">
-    <display-name lang="pt">sic-k</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-mulher">
-    <display-name lang="pt">sic-mulher</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-noticias">
-    <display-name lang="pt">sic-noticias</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-noticias-hd">
-    <display-name lang="pt">sic-noticias-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sic-radical">
-    <display-name lang="pt">sic-radical</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sky-news">
-    <display-name lang="pt">sky-news</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv-mais">
-    <display-name lang="pt">sport-tv-mais</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv-mais-hd">
-    <display-name lang="pt">sport-tv-mais-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv1">
-    <display-name lang="pt">sport-tv1</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv1-hd">
-    <display-name lang="pt">sport-tv1-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv2">
-    <display-name lang="pt">sport-tv2</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv2-hd">
-    <display-name lang="pt">sport-tv2-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv3">
-    <display-name lang="pt">sport-tv3</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv3-hd">
-    <display-name lang="pt">sport-tv3-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv4">
-    <display-name lang="pt">sport-tv4</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv4-hd">
-    <display-name lang="pt">sport-tv4-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv5">
-    <display-name lang="pt">sport-tv5</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sport-tv5-hd">
-    <display-name lang="pt">sport-tv5-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sporting-tv">
-    <display-name lang="pt">sporting-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sporting-tv-hd">
-    <display-name lang="pt">sporting-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="sundance-hd">
-    <display-name lang="pt">sundance-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="syfy">
-    <display-name lang="pt">syfy</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="syfy-hd">
-    <display-name lang="pt">syfy-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tcv-internacional">
-    <display-name lang="pt">tcv-internacional</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tlc">
-    <display-name lang="pt">tlc</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="toro-tv">
-    <display-name lang="pt">toro-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tpa-internacional">
-    <display-name lang="pt">tpa-internacional</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="trace-tv">
-    <display-name lang="pt">trace-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="trace-tv-hd">
-    <display-name lang="pt">trace-tv-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="travel-channel">
-    <display-name lang="pt">travel-channel</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="travel-channel-hd">
-    <display-name lang="pt">travel-channel-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tv-galicia">
-    <display-name lang="pt">tv-galicia</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tv-record">
-    <display-name lang="pt">tv-record</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tv-record-hd">
-    <display-name lang="pt">tv-record-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tv5-monde">
-    <display-name lang="pt">tv5-monde</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-1">
-    <display-name lang="pt">tvcine-1</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-1-hd">
-    <display-name lang="pt">tvcine-1-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-2">
-    <display-name lang="pt">tvcine-2</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-2-hd">
-    <display-name lang="pt">tvcine-2-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-3">
-    <display-name lang="pt">tvcine-3</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-3-hd">
-    <display-name lang="pt">tvcine-3-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-4">
-    <display-name lang="pt">tvcine-4</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvcine-4-hd">
-    <display-name lang="pt">tvcine-4-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tve24h">
-    <display-name lang="pt">tve24h</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvei">
-    <display-name lang="pt">tvei</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvi">
-    <display-name lang="pt">tvi</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvi-ficcao">
-    <display-name lang="pt">tvi-ficcao</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvi-hd">
-    <display-name lang="pt">tvi-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvi24">
-    <display-name lang="pt">tvi24</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvseries">
-    <display-name lang="pt">tvseries</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="tvseries-hd">
-    <display-name lang="pt">tvseries-hd</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="venus">
-    <display-name lang="pt">venus</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="vh1">
-    <display-name lang="pt">vh1</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="zee-cinema">
-    <display-name lang="pt">zee-cinema</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <channel id="zee-tv">
-    <display-name lang="pt">zee-tv</display-name>
-    <url>http://www.guia-tv.pt</url>
-  </channel>
-  <programme start="20210221001500 +0000" stop="20210221020000 +0000" channel="1mais1">
-    <title lang="pt">Once Upon a Time Near Poltava</title>
-  </programme>
-  <programme start="20210221020000 +0000" stop="20210221030000 +0000" channel="1mais1">
-    <title lang="pt">TSN News</title>
-  </programme>
-  <programme start="20210221030000 +0000" stop="20210221040000 +0000" channel="1mais1">
-    <title lang="pt">Once Upon a Time Near Poltava</title>
-  </programme>
-  <programme start="20210221040000 +0000" stop="20210221050000 +0000" channel="1mais1">
-    <title lang="pt">Once Upon a Time Near Poltava</title>
-  </programme>
-  <programme start="20210221050000 +0000" stop="20210221060000 +0000" channel="1mais1">
-    <title lang="pt">Useful Tips</title>
-  </programme>
-  <programme start="20210221060000 +0000" stop="20210221070000 +0000" channel="1mais1">
-    <title lang="pt">Once Upon a Time Near Poltava</title>
-  </programme>
-  <programme start="20210221070000 +0000" stop="20210221075000 +0000" channel="1mais1">
-    <title lang="pt">Breakfast. Weekend</title>
-  </programme>
-  <programme start="20210221075000 +0000" stop="20210221084000 +0000" channel="1mais1">
-    <title lang="pt">Once Upon a Time Near Poltava</title>
-  </programme>
-  <programme start="20210221084000 +0000" stop="20210221093000 +0000" channel="1mais1">
-    <title lang="pt">The World Inside Out</title>
-  </programme>
-  <programme start="20210221093000 +0000" stop="20210221112000 +0000" channel="1mais1">
-    <title lang="pt">The World Inside Out</title>
-  </programme>
-  <programme start="20210221112000 +0000" stop="20210221130000 +0000" channel="1mais1">
-    <title lang="pt">Woman's Quarter</title>
-  </programme>
-  <programme start="20210221130000 +0000" stop="20210221134500 +0000" channel="1mais1">
-    <title lang="pt">TSN News</title>
-  </programme>
-  <programme start="20210221134500 +0000" stop="20210221143000 +0000" channel="1mais1">
-    <title lang="pt">Make the Comedian Laugh</title>
-  </programme>
-  <programme start="20210221143000 +0000" stop="20210221151500 +0000" channel="1mais1">
-    <title lang="pt">The Last Moskal T.1 Ep.15</title>
-  </programme>
-  <programme start="20210221151500 +0000" stop="20210221183000 +0000" channel="1mais1">
-    <title lang="pt">The New Life of Vasynyna Pavlivna T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221183000 +0000" stop="20210221200000 +0000" channel="1mais1">
-    <title lang="pt">TSN News</title>
-  </programme>
-  <programme start="20210221200000 +0000" stop="20210221210000 +0000" channel="1mais1">
-    <title lang="pt">Tanya and Volodya</title>
-  </programme>
-  <programme start="20210221001300 +0000" stop="20210221003600 +0000" channel="24-kitchen">
-    <title lang="pt">Doces do Ofício T....</title>
-  </programme>
-  <programme start="20210221003600 +0000" stop="20210221010300 +0000" channel="24-kitchen">
-    <title lang="pt">Doces do Ofício T.2 Ep.9</title>
-  </programme>
-  <programme start="20210221010300 +0000" stop="20210221012600 +0000" channel="24-kitchen">
-    <title lang="pt">Doces do Ofício T....</title>
-  </programme>
-  <programme start="20210221012600 +0000" stop="20210221015200 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.78</title>
-  </programme>
-  <programme start="20210221015200 +0000" stop="20210221021700 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.79</title>
-  </programme>
-  <programme start="20210221021700 +0000" stop="20210221024500 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.80</title>
-  </programme>
-  <programme start="20210221024500 +0000" stop="20210221031000 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.81</title>
-  </programme>
-  <programme start="20210221031000 +0000" stop="20210221033500 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.82</title>
-  </programme>
-  <programme start="20210221033500 +0000" stop="20210221040200 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221040200 +0000" stop="20210221042700 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de...</title>
-  </programme>
-  <programme start="20210221042700 +0000" stop="20210221045400 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221045400 +0000" stop="20210221051900 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de...</title>
-  </programme>
-  <programme start="20210221051900 +0000" stop="20210221054500 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221054500 +0000" stop="20210221060400 +0000" channel="24-kitchen">
-    <title lang="pt">Chef de Raiz T...</title>
-  </programme>
-  <programme start="20210221060400 +0000" stop="20210221063000 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221063000 +0000" stop="20210221065600 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221065600 +0000" stop="20210221072300 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221072300 +0000" stop="20210221074900 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221074900 +0000" stop="20210221081600 +0000" channel="24-kitchen">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221081600 +0000" stop="20210221083900 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia...</title>
-  </programme>
-  <programme start="20210221083900 +0000" stop="20210221090500 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221090500 +0000" stop="20210221093200 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cát...</title>
-  </programme>
-  <programme start="20210221093200 +0000" stop="20210221100300 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cátia T...</title>
-  </programme>
-  <programme start="20210221100300 +0000" stop="20210221102800 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia C...</title>
-  </programme>
-  <programme start="20210221102800 +0000" stop="20210221105300 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.4 Ep.50</title>
-  </programme>
-  <programme start="20210221105300 +0000" stop="20210221111800 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.4 Ep.51</title>
-  </programme>
-  <programme start="20210221111800 +0000" stop="20210221114400 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.4 Ep.52</title>
-  </programme>
-  <programme start="20210221114400 +0000" stop="20210221120500 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.4...</title>
-  </programme>
-  <programme start="20210221120500 +0000" stop="20210221122700 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.4 ...</title>
-  </programme>
-  <programme start="20210221122700 +0000" stop="20210221125100 +0000" channel="24-kitchen">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221125100 +0000" stop="20210221131400 +0000" channel="24-kitchen">
-    <title lang="pt">Fábulas Gastronórd...</title>
-  </programme>
-  <programme start="20210221131400 +0000" stop="20210221133800 +0000" channel="24-kitchen">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221133800 +0000" stop="20210221140000 +0000" channel="24-kitchen">
-    <title lang="pt">Fábulas Gastronór...</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221142400 +0000" channel="24-kitchen">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221142400 +0000" stop="20210221144800 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia ...</title>
-  </programme>
-  <programme start="20210221144800 +0000" stop="20210221151500 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cát...</title>
-  </programme>
-  <programme start="20210221151500 +0000" stop="20210221154100 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221154100 +0000" stop="20210221160600 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia C...</title>
-  </programme>
-  <programme start="20210221160600 +0000" stop="20210221163200 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221163200 +0000" stop="20210221165900 +0000" channel="24-kitchen">
-    <title lang="pt">A Sentada T.2 Ep.11</title>
-  </programme>
-  <programme start="20210221165900 +0000" stop="20210221172300 +0000" channel="24-kitchen">
-    <title lang="pt">A Sentada T.2 Ep.12</title>
-  </programme>
-  <programme start="20210221172300 +0000" stop="20210221174800 +0000" channel="24-kitchen">
-    <title lang="pt">A Sentada T.2 Ep.13</title>
-  </programme>
-  <programme start="20210221174800 +0000" stop="20210221181600 +0000" channel="24-kitchen">
-    <title lang="pt">A Sentada T.2 Ep.14</title>
-  </programme>
-  <programme start="20210221181600 +0000" stop="20210221184200 +0000" channel="24-kitchen">
-    <title lang="pt">A Sentada T.2 Ep.15</title>
-  </programme>
-  <programme start="20210221184200 +0000" stop="20210221190400 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 ...</title>
-  </programme>
-  <programme start="20210221190400 +0000" stop="20210221193100 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.31</title>
-  </programme>
-  <programme start="20210221193100 +0000" stop="20210221195700 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.32</title>
-  </programme>
-  <programme start="20210221195700 +0000" stop="20210221202200 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.33</title>
-  </programme>
-  <programme start="20210221202200 +0000" stop="20210221205000 +0000" channel="24-kitchen">
-    <title lang="pt">Prato do Dia T.2 Ep.34</title>
-  </programme>
-  <programme start="20210221205000 +0000" stop="20210221211600 +0000" channel="24-kitchen">
-    <title lang="pt">Filipa Gomes Cozinha ...</title>
-  </programme>
-  <programme start="20210221211600 +0000" stop="20210221214500 +0000" channel="24-kitchen">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221214500 +0000" stop="20210221221400 +0000" channel="24-kitchen">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221221400 +0000" stop="20210221224300 +0000" channel="24-kitchen">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221224300 +0000" stop="20210221231000 +0000" channel="24-kitchen">
-    <title lang="pt">Filipa Gomes Cozinha C...</title>
-  </programme>
-  <programme start="20210221231000 +0000" stop="20210221234100 +0000" channel="24-kitchen">
-    <title lang="pt">Os Segredos da Tia Cátia T...</title>
-  </programme>
-  <programme start="20210221001300 +0000" stop="20210221003600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Doces do Ofício T....</title>
-  </programme>
-  <programme start="20210221003600 +0000" stop="20210221010300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Doces do Ofício T.2 Ep.9</title>
-  </programme>
-  <programme start="20210221010300 +0000" stop="20210221012600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Doces do Ofício T....</title>
-  </programme>
-  <programme start="20210221012600 +0000" stop="20210221015200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.78</title>
-  </programme>
-  <programme start="20210221015200 +0000" stop="20210221021700 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.79</title>
-  </programme>
-  <programme start="20210221021700 +0000" stop="20210221024500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.80</title>
-  </programme>
-  <programme start="20210221024500 +0000" stop="20210221031000 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.81</title>
-  </programme>
-  <programme start="20210221031000 +0000" stop="20210221033500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.82</title>
-  </programme>
-  <programme start="20210221033500 +0000" stop="20210221040200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221040200 +0000" stop="20210221042700 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de...</title>
-  </programme>
-  <programme start="20210221042700 +0000" stop="20210221045400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221045400 +0000" stop="20210221051900 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de...</title>
-  </programme>
-  <programme start="20210221051900 +0000" stop="20210221054500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221054500 +0000" stop="20210221060400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Chef de Raiz T...</title>
-  </programme>
-  <programme start="20210221060400 +0000" stop="20210221063000 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221063000 +0000" stop="20210221065600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221065600 +0000" stop="20210221072300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221072300 +0000" stop="20210221074900 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de ...</title>
-  </programme>
-  <programme start="20210221074900 +0000" stop="20210221081600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">As Doces Iguarias de R...</title>
-  </programme>
-  <programme start="20210221081600 +0000" stop="20210221083900 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia...</title>
-  </programme>
-  <programme start="20210221083900 +0000" stop="20210221090500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221090500 +0000" stop="20210221093200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cát...</title>
-  </programme>
-  <programme start="20210221093200 +0000" stop="20210221100300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cátia T...</title>
-  </programme>
-  <programme start="20210221100300 +0000" stop="20210221102800 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia C...</title>
-  </programme>
-  <programme start="20210221102800 +0000" stop="20210221105300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.4 Ep.50</title>
-  </programme>
-  <programme start="20210221105300 +0000" stop="20210221111800 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.4 Ep.51</title>
-  </programme>
-  <programme start="20210221111800 +0000" stop="20210221114400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.4 Ep.52</title>
-  </programme>
-  <programme start="20210221114400 +0000" stop="20210221120500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.4...</title>
-  </programme>
-  <programme start="20210221120500 +0000" stop="20210221122700 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.4 ...</title>
-  </programme>
-  <programme start="20210221122700 +0000" stop="20210221125100 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221125100 +0000" stop="20210221131400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Fábulas Gastronórd...</title>
-  </programme>
-  <programme start="20210221131400 +0000" stop="20210221133800 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221133800 +0000" stop="20210221140000 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Fábulas Gastronór...</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221142400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Fábulas Gastronórdi...</title>
-  </programme>
-  <programme start="20210221142400 +0000" stop="20210221144800 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia ...</title>
-  </programme>
-  <programme start="20210221144800 +0000" stop="20210221151500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cát...</title>
-  </programme>
-  <programme start="20210221151500 +0000" stop="20210221154100 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221154100 +0000" stop="20210221160600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia C...</title>
-  </programme>
-  <programme start="20210221160600 +0000" stop="20210221163200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cá...</title>
-  </programme>
-  <programme start="20210221163200 +0000" stop="20210221165900 +0000" channel="24-kitchen-hd">
-    <title lang="pt">A Sentada T.2 Ep.11</title>
-  </programme>
-  <programme start="20210221165900 +0000" stop="20210221172300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">A Sentada T.2 Ep.12</title>
-  </programme>
-  <programme start="20210221172300 +0000" stop="20210221174800 +0000" channel="24-kitchen-hd">
-    <title lang="pt">A Sentada T.2 Ep.13</title>
-  </programme>
-  <programme start="20210221174800 +0000" stop="20210221181600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">A Sentada T.2 Ep.14</title>
-  </programme>
-  <programme start="20210221181600 +0000" stop="20210221184200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">A Sentada T.2 Ep.15</title>
-  </programme>
-  <programme start="20210221184200 +0000" stop="20210221190400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 ...</title>
-  </programme>
-  <programme start="20210221190400 +0000" stop="20210221193100 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.31</title>
-  </programme>
-  <programme start="20210221193100 +0000" stop="20210221195700 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.32</title>
-  </programme>
-  <programme start="20210221195700 +0000" stop="20210221202200 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.33</title>
-  </programme>
-  <programme start="20210221202200 +0000" stop="20210221205000 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Prato do Dia T.2 Ep.34</title>
-  </programme>
-  <programme start="20210221205000 +0000" stop="20210221211600 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Filipa Gomes Cozinha ...</title>
-  </programme>
-  <programme start="20210221211600 +0000" stop="20210221214500 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221214500 +0000" stop="20210221221400 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221221400 +0000" stop="20210221224300 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Filipa Gomes Cozinha Com...</title>
-  </programme>
-  <programme start="20210221224300 +0000" stop="20210221231000 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Filipa Gomes Cozinha C...</title>
-  </programme>
-  <programme start="20210221231000 +0000" stop="20210221234100 +0000" channel="24-kitchen-hd">
-    <title lang="pt">Os Segredos da Tia Cátia T...</title>
-  </programme>
-  <programme start="20210221000000 +0000" stop="20210221003000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221003000 +0000" stop="20210221010000 +0000" channel="aljazeera">
-    <title lang="pt">Inside Story</title>
-  </programme>
-  <programme start="20210221010000 +0000" stop="20210221020000 +0000" channel="aljazeera">
-    <title lang="pt">Up To The Last Drop</title>
-  </programme>
-  <programme start="20210221020000 +0000" stop="20210221023000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221023000 +0000" stop="20210221030000 +0000" channel="aljazeera">
-    <title lang="pt">The Listening Post</title>
-  </programme>
-  <programme start="20210221030000 +0000" stop="20210221033000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221033000 +0000" stop="20210221040000 +0000" channel="aljazeera">
-    <title lang="pt">Counting The Cost</title>
-  </programme>
-  <programme start="20210221040000 +0000" stop="20210221043000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221043000 +0000" stop="20210221050000 +0000" channel="aljazeera">
-    <title lang="pt">Upfront</title>
-  </programme>
-  <programme start="20210221050000 +0000" stop="20210221053000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221053000 +0000" stop="20210221060000 +0000" channel="aljazeera">
-    <title lang="pt">People and Power - Romani...</title>
-  </programme>
-  <programme start="20210221060000 +0000" stop="20210221070000 +0000" channel="aljazeera">
-    <title lang="pt">In Search Of India's Soul</title>
-  </programme>
-  <programme start="20210221070000 +0000" stop="20210221073000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221073000 +0000" stop="20210221080000 +0000" channel="aljazeera">
-    <title lang="pt">Inside Story</title>
-  </programme>
-  <programme start="20210221080000 +0000" stop="20210221083000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221083000 +0000" stop="20210221090000 +0000" channel="aljazeera">
-    <title lang="pt">Talk To Al Jazeera - Aran...</title>
-  </programme>
-  <programme start="20210221090000 +0000" stop="20210221093000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221093000 +0000" stop="20210221100000 +0000" channel="aljazeera">
-    <title lang="pt">Viewfinder Asia T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221100000 +0000" stop="20210221110000 +0000" channel="aljazeera">
-    <title lang="pt">Newshour</title>
-  </programme>
-  <programme start="20210221110000 +0000" stop="20210221113000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221113000 +0000" stop="20210221120000 +0000" channel="aljazeera">
-    <title lang="pt">Inside Story</title>
-  </programme>
-  <programme start="20210221120000 +0000" stop="20210221130000 +0000" channel="aljazeera">
-    <title lang="pt">Al Jazeera World - Secrets Of The Arab Cafe</title>
-  </programme>
-  <programme start="20210221130000 +0000" stop="20210221140000 +0000" channel="aljazeera">
-    <title lang="pt">Newshour</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221143000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221143000 +0000" stop="20210221150000 +0000" channel="aljazeera">
-    <title lang="pt">The Listening Post</title>
-  </programme>
-  <programme start="20210221150000 +0000" stop="20210221160000 +0000" channel="aljazeera">
-    <title lang="pt">Newshour</title>
-  </programme>
-  <programme start="20210221160000 +0000" stop="20210221163000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221163000 +0000" stop="20210221170000 +0000" channel="aljazeera">
-    <title lang="pt">101 East - Japan - The Ag...</title>
-  </programme>
-  <programme start="20210221170000 +0000" stop="20210221173000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221173000 +0000" stop="20210221180000 +0000" channel="aljazeera">
-    <title lang="pt">Inside Story</title>
-  </programme>
-  <programme start="20210221180000 +0000" stop="20210221190000 +0000" channel="aljazeera">
-    <title lang="pt">Newshour</title>
-  </programme>
-  <programme start="20210221190000 +0000" stop="20210221193000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221193000 +0000" stop="20210221200000 +0000" channel="aljazeera">
-    <title lang="pt">Talk To Al Jazeera - Aran...</title>
-  </programme>
-  <programme start="20210221200000 +0000" stop="20210221210000 +0000" channel="aljazeera">
-    <title lang="pt">Witness - Patriotic Highway</title>
-  </programme>
-  <programme start="20210221210000 +0000" stop="20210221220000 +0000" channel="aljazeera">
-    <title lang="pt">Newshour</title>
-  </programme>
-  <programme start="20210221220000 +0000" stop="20210221223000 +0000" channel="aljazeera">
-    <title lang="pt">News Live</title>
-  </programme>
-  <programme start="20210221223000 +0000" stop="20210221230000 +0000" channel="aljazeera">
-    <title lang="pt">Women Make Change</title>
-  </programme>
-  <programme start="20210221011300 +0000" stop="20210221024400 +0000" channel="amc">
-    <title lang="pt">Moonrise Kingdom</title>
-  </programme>
-  <programme start="20210221024400 +0000" stop="20210221042200 +0000" channel="amc">
-    <title lang="pt">Encalhados</title>
-  </programme>
-  <programme start="20210221042200 +0000" stop="20210221060200 +0000" channel="amc">
-    <title lang="pt">Prometo Amar-te</title>
-  </programme>
-  <programme start="20210221060200 +0000" stop="20210221065700 +0000" channel="amc">
-    <title lang="pt">Wisting T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221065700 +0000" stop="20210221074900 +0000" channel="amc">
-    <title lang="pt">Wisting T.1 Ep.7</title>
-  </programme>
-  <programme start="20210221074900 +0000" stop="20210221083400 +0000" channel="amc">
-    <title lang="pt">Wisting T.1 Ep.8</title>
-  </programme>
-  <programme start="20210221083400 +0000" stop="20210221091900 +0000" channel="amc">
-    <title lang="pt">Wisting T.1 Ep.9</title>
-  </programme>
-  <programme start="20210221091900 +0000" stop="20210221100700 +0000" channel="amc">
-    <title lang="pt">Wisting T.1 Ep.10</title>
-  </programme>
-  <programme start="20210221100700 +0000" stop="20210221105500 +0000" channel="amc">
-    <title lang="pt">Gigantes T.1 Ep.4</title>
-  </programme>
-  <programme start="20210221105500 +0000" stop="20210221114200 +0000" channel="amc">
-    <title lang="pt">Gigantes T.1 Ep.5</title>
-  </programme>
-  <programme start="20210221114200 +0000" stop="20210221122600 +0000" channel="amc">
-    <title lang="pt">Gigantes T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221122600 +0000" stop="20210221131900 +0000" channel="amc">
-    <title lang="pt">El Chapo T.1 Ep.1</title>
-  </programme>
-  <programme start="20210221131900 +0000" stop="20210221140600 +0000" channel="amc">
-    <title lang="pt">El Chapo T.1 Ep.2</title>
-  </programme>
-  <programme start="20210221140600 +0000" stop="20210221145500 +0000" channel="amc">
-    <title lang="pt">El Chapo T.1 Ep.3</title>
-  </programme>
-  <programme start="20210221145500 +0000" stop="20210221155900 +0000" channel="amc">
-    <title lang="pt">Narcos: México T.2 Ep.1</title>
-  </programme>
-  <programme start="20210221155900 +0000" stop="20210221173900 +0000" channel="amc">
-    <title lang="pt">Um Santo Vizinho</title>
-  </programme>
-  <programme start="20210221173900 +0000" stop="20210221200600 +0000" channel="amc">
-    <title lang="pt">Jackie Brown</title>
-  </programme>
-  <programme start="20210221200600 +0000" stop="20210221221000 +0000" channel="amc">
-    <title lang="pt">007 - GoldenEye</title>
-  </programme>
-  <programme start="20210221011300 +0000" stop="20210221024400 +0000" channel="amc-hd">
-    <title lang="pt">Moonrise Kingdom</title>
-  </programme>
-  <programme start="20210221024400 +0000" stop="20210221042200 +0000" channel="amc-hd">
-    <title lang="pt">Encalhados</title>
-  </programme>
-  <programme start="20210221042200 +0000" stop="20210221060200 +0000" channel="amc-hd">
-    <title lang="pt">Prometo Amar-te</title>
-  </programme>
-  <programme start="20210221060200 +0000" stop="20210221065700 +0000" channel="amc-hd">
-    <title lang="pt">Wisting T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221065700 +0000" stop="20210221074900 +0000" channel="amc-hd">
-    <title lang="pt">Wisting T.1 Ep.7</title>
-  </programme>
-  <programme start="20210221074900 +0000" stop="20210221083400 +0000" channel="amc-hd">
-    <title lang="pt">Wisting T.1 Ep.8</title>
-  </programme>
-  <programme start="20210221083400 +0000" stop="20210221091900 +0000" channel="amc-hd">
-    <title lang="pt">Wisting T.1 Ep.9</title>
-  </programme>
-  <programme start="20210221091900 +0000" stop="20210221100700 +0000" channel="amc-hd">
-    <title lang="pt">Wisting T.1 Ep.10</title>
-  </programme>
-  <programme start="20210221100700 +0000" stop="20210221105500 +0000" channel="amc-hd">
-    <title lang="pt">Gigantes T.1 Ep.4</title>
-  </programme>
-  <programme start="20210221105500 +0000" stop="20210221114200 +0000" channel="amc-hd">
-    <title lang="pt">Gigantes T.1 Ep.5</title>
-  </programme>
-  <programme start="20210221114200 +0000" stop="20210221122600 +0000" channel="amc-hd">
-    <title lang="pt">Gigantes T.1 Ep.6</title>
-  </programme>
-  <programme start="20210221122600 +0000" stop="20210221131900 +0000" channel="amc-hd">
-    <title lang="pt">El Chapo T.1 Ep.1</title>
-  </programme>
-  <programme start="20210221131900 +0000" stop="20210221140600 +0000" channel="amc-hd">
-    <title lang="pt">El Chapo T.1 Ep.2</title>
-  </programme>
-  <programme start="20210221140600 +0000" stop="20210221145500 +0000" channel="amc-hd">
-    <title lang="pt">El Chapo T.1 Ep.3</title>
-  </programme>
-  <programme start="20210221145500 +0000" stop="20210221155900 +0000" channel="amc-hd">
-    <title lang="pt">Narcos: México T.2 Ep.1</title>
-  </programme>
-  <programme start="20210221155900 +0000" stop="20210221173900 +0000" channel="amc-hd">
-    <title lang="pt">Um Santo Vizinho</title>
-  </programme>
-  <programme start="20210221173900 +0000" stop="20210221200600 +0000" channel="amc-hd">
-    <title lang="pt">Jackie Brown</title>
-  </programme>
-  <programme start="20210221200600 +0000" stop="20210221221000 +0000" channel="amc-hd">
-    <title lang="pt">007 - GoldenEye</title>
-  </programme>
-  <programme start="20210221000000 +0000" stop="20210221010000 +0000" channel="artv">
-    <title lang="pt">Comissão de Trabalho e Segurança Social</title>
-  </programme>
-  <programme start="20210221010000 +0000" stop="20210221020000 +0000" channel="artv">
-    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação da...</title>
-  </programme>
-  <programme start="20210221020000 +0000" stop="20210221030000 +0000" channel="artv">
-    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação da...</title>
-  </programme>
-  <programme start="20210221030000 +0000" stop="20210221040000 +0000" channel="artv">
-    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação da...</title>
-  </programme>
-  <programme start="20210221040000 +0000" stop="20210221060000 +0000" channel="artv">
-    <title lang="pt">Comissão de Ambiente, Energia e Ordenamento do Território</title>
-  </programme>
-  <programme start="20210221060000 +0000" stop="20210221070000 +0000" channel="artv">
-    <title lang="pt">Comissão de Administração Pública, Modernização Adminis...</title>
-  </programme>
-  <programme start="20210221070000 +0000" stop="20210221080000 +0000" channel="artv">
-    <title lang="pt">Comissão de Administração Pública, Modernização Adminis...</title>
-  </programme>
-  <programme start="20210221080000 +0000" stop="20210221110000 +0000" channel="artv">
-    <title lang="pt">Comissão de Educação, Juventude e Desporto</title>
-  </programme>
-  <programme start="20210221110000 +0000" stop="20210221120000 +0000" channel="artv">
-    <title lang="pt">Comissão de Administração Pública, Modernização Adminis...</title>
-  </programme>
-  <programme start="20210221120000 +0000" stop="20210221130000 +0000" channel="artv">
-    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberda...</title>
-  </programme>
-  <programme start="20210221130000 +0000" stop="20210221160000 +0000" channel="artv">
-    <title lang="pt">Reunião Plenária</title>
-  </programme>
-  <programme start="20210221160000 +0000" stop="20210221170000 +0000" channel="artv">
-    <title lang="pt">Comissão de Cultura e Comunicação</title>
-  </programme>
-  <programme start="20210221170000 +0000" stop="20210221180000 +0000" channel="artv">
-    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação da...</title>
-  </programme>
-  <programme start="20210221180000 +0000" stop="20210221190000 +0000" channel="artv">
-    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação da...</title>
-  </programme>
-  <programme start="20210221190000 +0000" stop="20210221210000 +0000" channel="artv">
-    <title lang="pt">Comissão de Negócios Estrangeiros e Comunidades Portuguesas</title>
-  </programme>
-  <programme start="20210221210000 +0000" stop="20210221220000 +0000" channel="artv">
-    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberda...</title>
-  </programme>
-  <programme start="20210221014000 +0000" stop="20210221032700 +0000" channel="axn">
-    <title lang="pt">O Delator!</title>
-  </programme>
-  <programme start="20210221032700 +0000" stop="20210221052900 +0000" channel="axn">
-    <title lang="pt">Homens de Coragem</title>
-  </programme>
-  <programme start="20210221052900 +0000" stop="20210221061300 +0000" channel="axn">
-    <title lang="pt">Investigação Criminal T.14 Ep.6</title>
-  </programme>
-  <programme start="20210221061300 +0000" stop="20210221065900 +0000" channel="axn">
-    <title lang="pt">Investigação Criminal T.14 Ep.7</title>
-  </programme>
-  <programme start="20210221065900 +0000" stop="20210221074400 +0000" channel="axn">
-    <title lang="pt">Investigação Criminal T.14 Ep.8</title>
-  </programme>
-  <programme start="20210221074400 +0000" stop="20210221082700 +0000" channel="axn">
-    <title lang="pt">For Life T.2 Ep.8</title>
-  </programme>
-  <programme start="20210221082700 +0000" stop="20210221091100 +0000" channel="axn">
-    <title lang="pt">Investigação Criminal T.18 Ep.6</title>
-  </programme>
-  <programme start="20210221091100 +0000" stop="20210221095600 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.16</title>
-  </programme>
-  <programme start="20210221095600 +0000" stop="20210221104200 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.17</title>
-  </programme>
-  <programme start="20210221104200 +0000" stop="20210221112800 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.18</title>
-  </programme>
-  <programme start="20210221112800 +0000" stop="20210221121400 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.19</title>
-  </programme>
-  <programme start="20210221121400 +0000" stop="20210221130200 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.20</title>
-  </programme>
-  <programme start="20210221130200 +0000" stop="20210221134800 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.21</title>
-  </programme>
-  <programme start="20210221134800 +0000" stop="20210221143600 +0000" channel="axn">
-    <title lang="pt">Castle T.3 Ep.22</title>
-  </programme>
-  <programme start="20210221143600 +0000" stop="20210221161600 +0000" channel="axn">
-    <title lang="pt">Vingança Rápida</title>
-  </programme>
-  <programme start="20210221161600 +0000" stop="20210221181400 +0000" channel="axn">
-    <title lang="pt">Noite em Fuga</title>
-  </programme>
-  <programme start="20210221181400 +0000" stop="20210221195300 +0000" channel="axn">
-    <title lang="pt">6 Dias</title>
-  </programme>
-  <programme start="20210221195300 +0000" stop="20210221215500 +0000" channel="axn">
-    <title lang="pt">Argo</title>
-  </programme>
-  <programme start="20210221215500 +0000" stop="20210221234100 +0000" channel="axn">
-    <title lang="pt">Despojos de Inverno</title>
-  </programme>
-  <programme start="20210221002400 +0000" stop="20210221022300 +0000" channel="axn-bl">
-    <title lang="pt">21: A Última Cartada</title>
-  </programme>
-  <programme start="20210221022300 +0000" stop="20210221043500 +0000" channel="axn-bl">
-    <title lang="pt">Greystoke - A Lenda de Tarzan o Rei da Selva</title>
-  </programme>
-  <programme start="20210221043500 +0000" stop="20210221063400 +0000" channel="axn-bl">
-    <title lang="pt">North Country - Terra Fria</title>
-  </programme>
-  <programme start="20210221063400 +0000" stop="20210221084700 +0000" channel="axn-bl">
-    <title lang="pt">Life</title>
-  </programme>
-  <programme start="20210221084700 +0000" stop="20210221105900 +0000" channel="axn-bl">
-    <title lang="pt">A Árvore da Vida</title>
-  </programme>
-  <programme start="20210221105900 +0000" stop="20210221122000 +0000" channel="axn-bl">
-    <title lang="pt">Locke</title>
-  </programme>
-  <programme start="20210221122000 +0000" stop="20210221140000 +0000" channel="axn-bl">
-    <title lang="pt">Snatch - Porcos e Diamantes</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221155200 +0000" channel="axn-bl">
-    <title lang="pt">Linha Mortal (1990)</title>
-  </programme>
-  <programme start="20210221155200 +0000" stop="20210221173400 +0000" channel="axn-bl">
-    <title lang="pt">A Conspiração de Echelon</title>
-  </programme>
-  <programme start="20210221173400 +0000" stop="20210221192100 +0000" channel="axn-bl">
-    <title lang="pt">O Bom Alemão</title>
-  </programme>
-  <programme start="20210221192100 +0000" stop="20210221211000 +0000" channel="axn-bl">
-    <title lang="pt">O Jogo de Mr. Ripley</title>
-  </programme>
-  <programme start="20210221211000 +0000" stop="20210221223800 +0000" channel="axn-bl">
-    <title lang="pt">Blackway</title>
-  </programme>
-  <programme start="20210221002400 +0000" stop="20210221022300 +0000" channel="axb-hd">
-    <title lang="pt">21: A Última Cartada</title>
-  </programme>
-  <programme start="20210221022300 +0000" stop="20210221043500 +0000" channel="axb-hd">
-    <title lang="pt">Greystoke - A Lenda de Tarzan o Rei da Selva</title>
-  </programme>
-  <programme start="20210221043500 +0000" stop="20210221063400 +0000" channel="axb-hd">
-    <title lang="pt">North Country - Terra Fria</title>
-  </programme>
-  <programme start="20210221063400 +0000" stop="20210221084700 +0000" channel="axb-hd">
-    <title lang="pt">Life</title>
-  </programme>
-  <programme start="20210221084700 +0000" stop="20210221105900 +0000" channel="axb-hd">
-    <title lang="pt">A Árvore da Vida</title>
-  </programme>
-  <programme start="20210221105900 +0000" stop="20210221122000 +0000" channel="axb-hd">
-    <title lang="pt">Locke</title>
-  </programme>
-  <programme start="20210221122000 +0000" stop="20210221140000 +0000" channel="axb-hd">
-    <title lang="pt">Snatch - Porcos e Diamantes</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221155200 +0000" channel="axb-hd">
-    <title lang="pt">Linha Mortal (1990)</title>
-  </programme>
-  <programme start="20210221155200 +0000" stop="20210221173400 +0000" channel="axb-hd">
-    <title lang="pt">A Conspiração de Echelon</title>
-  </programme>
-  <programme start="20210221173400 +0000" stop="20210221192100 +0000" channel="axb-hd">
-    <title lang="pt">O Bom Alemão</title>
-  </programme>
-  <programme start="20210221192100 +0000" stop="20210221211000 +0000" channel="axb-hd">
-    <title lang="pt">O Jogo de Mr. Ripley</title>
-  </programme>
-  <programme start="20210221211000 +0000" stop="20210221223800 +0000" channel="axb-hd">
-    <title lang="pt">Blackway</title>
-  </programme>
-  <programme start="20210221014000 +0000" stop="20210221032700 +0000" channel="axn-hd">
-    <title lang="pt">O Delator!</title>
-  </programme>
-  <programme start="20210221032700 +0000" stop="20210221052900 +0000" channel="axn-hd">
-    <title lang="pt">Homens de Coragem</title>
-  </programme>
-  <programme start="20210221052900 +0000" stop="20210221061300 +0000" channel="axn-hd">
-    <title lang="pt">Investigação Criminal T.14 Ep.6</title>
-  </programme>
-  <programme start="20210221061300 +0000" stop="20210221065900 +0000" channel="axn-hd">
-    <title lang="pt">Investigação Criminal T.14 Ep.7</title>
-  </programme>
-  <programme start="20210221065900 +0000" stop="20210221074400 +0000" channel="axn-hd">
-    <title lang="pt">Investigação Criminal T.14 Ep.8</title>
-  </programme>
-  <programme start="20210221074400 +0000" stop="20210221082700 +0000" channel="axn-hd">
-    <title lang="pt">For Life T.2 Ep.8</title>
-  </programme>
-  <programme start="20210221082700 +0000" stop="20210221091100 +0000" channel="axn-hd">
-    <title lang="pt">Investigação Criminal T.18 Ep.6</title>
-  </programme>
-  <programme start="20210221091100 +0000" stop="20210221095600 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.16</title>
-  </programme>
-  <programme start="20210221095600 +0000" stop="20210221104200 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.17</title>
-  </programme>
-  <programme start="20210221104200 +0000" stop="20210221112800 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.18</title>
-  </programme>
-  <programme start="20210221112800 +0000" stop="20210221121400 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.19</title>
-  </programme>
-  <programme start="20210221121400 +0000" stop="20210221130200 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.20</title>
-  </programme>
-  <programme start="20210221130200 +0000" stop="20210221134800 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.21</title>
-  </programme>
-  <programme start="20210221134800 +0000" stop="20210221143600 +0000" channel="axn-hd">
-    <title lang="pt">Castle T.3 Ep.22</title>
-  </programme>
-  <programme start="20210221143600 +0000" stop="20210221161600 +0000" channel="axn-hd">
-    <title lang="pt">Vingança Rápida</title>
-  </programme>
-  <programme start="20210221161600 +0000" stop="20210221181400 +0000" channel="axn-hd">
-    <title lang="pt">Noite em Fuga</title>
-  </programme>
-  <programme start="20210221181400 +0000" stop="20210221195300 +0000" channel="axn-hd">
-    <title lang="pt">6 Dias</title>
-  </programme>
-  <programme start="20210221195300 +0000" stop="20210221215500 +0000" channel="axn-hd">
-    <title lang="pt">Argo</title>
-  </programme>
-  <programme start="20210221215500 +0000" stop="20210221234100 +0000" channel="axn-hd">
-    <title lang="pt">Despojos de Inverno</title>
-  </programme>
-  <programme start="20210221001800 +0000" stop="20210221014900 +0000" channel="axn-white">
-    <title lang="pt">O Milagre da Vida</title>
-  </programme>
-  <programme start="20210221014900 +0000" stop="20210221031400 +0000" channel="axn-white">
-    <title lang="pt">A Princesa e o Fuzileiro</title>
-  </programme>
-  <programme start="20210221031400 +0000" stop="20210221043900 +0000" channel="axn-white">
-    <title lang="pt">Conrad &amp; Michelle: Palavras que Matam</title>
-  </programme>
-  <programme start="20210221043900 +0000" stop="20210221053400 +0000" channel="axn-white">
-    <title lang="pt">Candice Renoir T.3 Ep.5</title>
-  </programme>
-  <programme start="20210221053400 +0000" stop="20210221063300 +0000" channel="axn-white">
-    <title lang="pt">Candice Renoir T.3 Ep.6</title>
-  </programme>
-  <programme start="20210221063300 +0000" stop="20210221071400 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.2 Ep.22</title>
-  </programme>
-  <programme start="20210221071400 +0000" stop="20210221075800 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.2 Ep.23</title>
-  </programme>
-  <programme start="20210221075800 +0000" stop="20210221084100 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.1</title>
-  </programme>
-  <programme start="20210221084100 +0000" stop="20210221092500 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.2</title>
-  </programme>
-  <programme start="20210221092500 +0000" stop="20210221101100 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.3</title>
-  </programme>
-  <programme start="20210221101100 +0000" stop="20210221105400 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.4</title>
-  </programme>
-  <programme start="20210221105400 +0000" stop="20210221113900 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.5</title>
-  </programme>
-  <programme start="20210221113900 +0000" stop="20210221122500 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.6</title>
-  </programme>
-  <programme start="20210221122500 +0000" stop="20210221130900 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.7</title>
-  </programme>
-  <programme start="20210221130900 +0000" stop="20210221135400 +0000" channel="axn-white">
-    <title lang="pt">O Mentalista T.3 Ep.8</title>
-  </programme>
-  <programme start="20210221135400 +0000" stop="20210221152400 +0000" channel="axn-white">
-    <title lang="pt">Assassinato em... T.1 Ep.11</title>
-  </programme>
-  <programme start="20210221152400 +0000" stop="20210221165700 +0000" channel="axn-white">
-    <title lang="pt">Assassinato em... T.1 Ep.12</title>
-  </programme>
-  <programme start="20210221165700 +0000" stop="20210221181900 +0000" channel="axn-white">
-    <title lang="pt">Get a Job</title>
-  </programme>
-  <programme start="20210221181900 +0000" stop="20210221195800 +0000" channel="axn-white">
-    <title lang="pt">Shanghai</title>
-  </programme>
-  <programme start="20210221195800 +0000" stop="20210221212500 +0000" channel="axn-white">
-    <title lang="pt">As Leis da Atracção</title>
-  </programme>
-  <programme start="20210221212500 +0000" stop="20210221233900 +0000" channel="axn-white">
-    <title lang="pt">A Idade da Inocência</title>
-  </programme>
-  <programme start="20210221001800 +0000" stop="20210221014900 +0000" channel="axn-white-hd">
-    <title lang="pt">O Milagre da Vida</title>
-  </programme>
-  <programme start="20210221014900 +0000" stop="20210221031400 +0000" channel="axn-white-hd">
-    <title lang="pt">A Princesa e o Fuzileiro</title>
-  </programme>
-  <programme start="20210221031400 +0000" stop="20210221043900 +0000" channel="axn-white-hd">
-    <title lang="pt">Conrad &amp; Michelle: Palavras que Matam</title>
-  </programme>
-  <programme start="20210221043900 +0000" stop="20210221053400 +0000" channel="axn-white-hd">
-    <title lang="pt">Candice Renoir T.3 Ep.5</title>
-  </programme>
-  <programme start="20210221053400 +0000" stop="20210221063300 +0000" channel="axn-white-hd">
-    <title lang="pt">Candice Renoir T.3 Ep.6</title>
-  </programme>
-  <programme start="20210221063300 +0000" stop="20210221071400 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.2 Ep.22</title>
-  </programme>
-  <programme start="20210221071400 +0000" stop="20210221075800 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.2 Ep.23</title>
-  </programme>
-  <programme start="20210221075800 +0000" stop="20210221084100 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.1</title>
-  </programme>
-  <programme start="20210221084100 +0000" stop="20210221092500 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.2</title>
-  </programme>
-  <programme start="20210221092500 +0000" stop="20210221101100 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.3</title>
-  </programme>
-  <programme start="20210221101100 +0000" stop="20210221105400 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.4</title>
-  </programme>
-  <programme start="20210221105400 +0000" stop="20210221113900 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.5</title>
-  </programme>
-  <programme start="20210221113900 +0000" stop="20210221122500 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.6</title>
-  </programme>
-  <programme start="20210221122500 +0000" stop="20210221130900 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.7</title>
-  </programme>
-  <programme start="20210221130900 +0000" stop="20210221135400 +0000" channel="axn-white-hd">
-    <title lang="pt">O Mentalista T.3 Ep.8</title>
-  </programme>
-  <programme start="20210221135400 +0000" stop="20210221152400 +0000" channel="axn-white-hd">
-    <title lang="pt">Assassinato em... T.1 Ep.11</title>
-  </programme>
-  <programme start="20210221152400 +0000" stop="20210221165700 +0000" channel="axn-white-hd">
-    <title lang="pt">Assassinato em... T.1 Ep.12</title>
-  </programme>
-  <programme start="20210221165700 +0000" stop="20210221181900 +0000" channel="axn-white-hd">
-    <title lang="pt">Get a Job</title>
-  </programme>
-  <programme start="20210221181900 +0000" stop="20210221195800 +0000" channel="axn-white-hd">
-    <title lang="pt">Shanghai</title>
-  </programme>
-  <programme start="20210221195800 +0000" stop="20210221212500 +0000" channel="axn-white-hd">
-    <title lang="pt">As Leis da Atracção</title>
-  </programme>
-  <programme start="20210221212500 +0000" stop="20210221233900 +0000" channel="axn-white-hd">
-    <title lang="pt">A Idade da Inocência</title>
-  </programme>
-  <programme start="20210221000000 +0000" stop="20210221003000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Hold the Sunset T.1 Ep.4</title>
-  </programme>
-  <programme start="20210221003000 +0000" stop="20210221011500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Live at the Apollo T.14 Ep.7</title>
-  </programme>
-  <programme start="20210221011500 +0000" stop="20210221014500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Josh T.2 Ep.2</title>
-  </programme>
-  <programme start="20210221014500 +0000" stop="20210221021500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Inside No. 9 T.3 Ep.5</title>
-  </programme>
-  <programme start="20210221021500 +0000" stop="20210221024500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Hold the Sunset T.1 Ep.3</title>
-  </programme>
-  <programme start="20210221024500 +0000" stop="20210221033000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctor Who (EN) T.11 Ep.8</title>
-  </programme>
-  <programme start="20210221033000 +0000" stop="20210221041500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Impossible T.3 Ep.9</title>
-  </programme>
-  <programme start="20210221041500 +0000" stop="20210221050000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Impossible T.3 Ep.10</title>
-  </programme>
-  <programme start="20210221050000 +0000" stop="20210221054500 +0000" channel="bbc-entertainment">
-    <title lang="pt">George Clarke's Old House New Home T.1 E...</title>
-  </programme>
-  <programme start="20210221054500 +0000" stop="20210221064000 +0000" channel="bbc-entertainment">
-    <title lang="pt">The Musketeers T.3 Ep.3</title>
-  </programme>
-  <programme start="20210221064000 +0000" stop="20210221073000 +0000" channel="bbc-entertainment">
-    <title lang="pt">The Musketeers T.3 Ep.4</title>
-  </programme>
-  <programme start="20210221073000 +0000" stop="20210221080000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctors T.21 Ep.115</title>
-  </programme>
-  <programme start="20210221080000 +0000" stop="20210221083000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctors T.21 Ep.116</title>
-  </programme>
-  <programme start="20210221083000 +0000" stop="20210221090000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctors T.21 Ep.117</title>
-  </programme>
-  <programme start="20210221090000 +0000" stop="20210221093000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctors T.21 Ep.118</title>
-  </programme>
-  <programme start="20210221093000 +0000" stop="20210221095000 +0000" channel="bbc-entertainment">
-    <title lang="pt">EastEnders T.1 ...</title>
-  </programme>
-  <programme start="20210221095000 +0000" stop="20210221101000 +0000" channel="bbc-entertainment">
-    <title lang="pt">EastEnders T.1 ...</title>
-  </programme>
-  <programme start="20210221101000 +0000" stop="20210221103500 +0000" channel="bbc-entertainment">
-    <title lang="pt">EastEnders T.1 Ep.6199</title>
-  </programme>
-  <programme start="20210221103500 +0000" stop="20210221110500 +0000" channel="bbc-entertainment">
-    <title lang="pt">EastEnders T.1 Ep.6200</title>
-  </programme>
-  <programme start="20210221110500 +0000" stop="20210221115500 +0000" channel="bbc-entertainment">
-    <title lang="pt">DIY SOS: The Big Build T.29 Ep.6</title>
-  </programme>
-  <programme start="20210221115500 +0000" stop="20210221124500 +0000" channel="bbc-entertainment">
-    <title lang="pt">DIY SOS: The Big Build T.29 Ep.7</title>
-  </programme>
-  <programme start="20210221124500 +0000" stop="20210221134000 +0000" channel="bbc-entertainment">
-    <title lang="pt">DIY SOS: The Big Build T.29 Ep.8</title>
-  </programme>
-  <programme start="20210221134000 +0000" stop="20210221142500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Doctor Who (EN) T.11 Ep.8</title>
-  </programme>
-  <programme start="20210221142500 +0000" stop="20210221151000 +0000" channel="bbc-entertainment">
-    <title lang="pt">George Clarke's Old House New Home T.1 E...</title>
-  </programme>
-  <programme start="20210221151000 +0000" stop="20210221160000 +0000" channel="bbc-entertainment">
-    <title lang="pt">The Great British Sewing Bee T.1 Ep.3</title>
-  </programme>
-  <programme start="20210221160000 +0000" stop="20210221164500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Impossible T.3 Ep.11</title>
-  </programme>
-  <programme start="20210221164500 +0000" stop="20210221173000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Impossible T.3 Ep.12</title>
-  </programme>
-  <programme start="20210221173000 +0000" stop="20210221182000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Antiques Roadshow T.40 Ep.3</title>
-  </programme>
-  <programme start="20210221182000 +0000" stop="20210221191500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Call the Midwife T.7 Ep.7</title>
-  </programme>
-  <programme start="20210221191500 +0000" stop="20210221200000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Father Brown (EN) T.7 Ep.7</title>
-  </programme>
-  <programme start="20210221200000 +0000" stop="20210221205500 +0000" channel="bbc-entertainment">
-    <title lang="pt">The Kettering Incident T.1 Ep.7</title>
-  </programme>
-  <programme start="20210221205500 +0000" stop="20210221214000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Fleming: The Man Who Would Be Bond T.1 E...</title>
-  </programme>
-  <programme start="20210221214000 +0000" stop="20210221223000 +0000" channel="bbc-entertainment">
-    <title lang="pt">Happy Valley (EN) T.2 Ep.2</title>
-  </programme>
-  <programme start="20210221223000 +0000" stop="20210221232500 +0000" channel="bbc-entertainment">
-    <title lang="pt">Call the Midwife T.7 Ep.7</title>
-  </programme>
-  <programme start="20210221000000 +0000" stop="20210221003000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221003000 +0000" stop="20210221010000 +0000" channel="bbc-world">
-    <title lang="pt">Panorama</title>
-  </programme>
-  <programme start="20210221010000 +0000" stop="20210221013000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221013000 +0000" stop="20210221020000 +0000" channel="bbc-world">
-    <title lang="pt">Dateline London</title>
-  </programme>
-  <programme start="20210221020000 +0000" stop="20210221023000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221023000 +0000" stop="20210221030000 +0000" channel="bbc-world">
-    <title lang="pt">Talking Business</title>
-  </programme>
-  <programme start="20210221030000 +0000" stop="20210221033000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221033000 +0000" stop="20210221040000 +0000" channel="bbc-world">
-    <title lang="pt">Click</title>
-  </programme>
-  <programme start="20210221040000 +0000" stop="20210221043000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221043000 +0000" stop="20210221050000 +0000" channel="bbc-world">
-    <title lang="pt">The Indian Changemakers</title>
-  </programme>
-  <programme start="20210221050000 +0000" stop="20210221053000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221053000 +0000" stop="20210221060000 +0000" channel="bbc-world">
-    <title lang="pt">Talking Business</title>
-  </programme>
-  <programme start="20210221060000 +0000" stop="20210221063000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221063000 +0000" stop="20210221070000 +0000" channel="bbc-world">
-    <title lang="pt">The Travel Show</title>
-  </programme>
-  <programme start="20210221070000 +0000" stop="20210221073000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221073000 +0000" stop="20210221080000 +0000" channel="bbc-world">
-    <title lang="pt">Panorama</title>
-  </programme>
-  <programme start="20210221080000 +0000" stop="20210221083000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221083000 +0000" stop="20210221090000 +0000" channel="bbc-world">
-    <title lang="pt">Dateline London</title>
-  </programme>
-  <programme start="20210221090000 +0000" stop="20210221093000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221093000 +0000" stop="20210221100000 +0000" channel="bbc-world">
-    <title lang="pt">Follow the Food T.1 Ep.4</title>
-  </programme>
-  <programme start="20210221100000 +0000" stop="20210221103000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221103000 +0000" stop="20210221110000 +0000" channel="bbc-world">
-    <title lang="pt">The Indian Changemakers</title>
-  </programme>
-  <programme start="20210221110000 +0000" stop="20210221113000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221113000 +0000" stop="20210221120000 +0000" channel="bbc-world">
-    <title lang="pt">Newsnight</title>
-  </programme>
-  <programme start="20210221120000 +0000" stop="20210221123000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221123000 +0000" stop="20210221130000 +0000" channel="bbc-world">
-    <title lang="pt">The Travel Show</title>
-  </programme>
-  <programme start="20210221130000 +0000" stop="20210221133000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221133000 +0000" stop="20210221140000 +0000" channel="bbc-world">
-    <title lang="pt">Click</title>
-  </programme>
-  <programme start="20210221140000 +0000" stop="20210221141500 +0000" channel="bbc-world">
-    <title lang="pt">BBC World ...</title>
-  </programme>
-  <programme start="20210221141500 +0000" stop="20210221143000 +0000" channel="bbc-world">
-    <title lang="pt">Sport Today</title>
-  </programme>
-  <programme start="20210221143000 +0000" stop="20210221150000 +0000" channel="bbc-world">
-    <title lang="pt">China's Greatest Treasure...</title>
-  </programme>
-  <programme start="20210221150000 +0000" stop="20210221151000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221151000 +0000" stop="20210221153000 +0000" channel="bbc-world">
-    <title lang="pt">America's New T...</title>
-  </programme>
-  <programme start="20210221153000 +0000" stop="20210221160000 +0000" channel="bbc-world">
-    <title lang="pt">Talking Business</title>
-  </programme>
-  <programme start="20210221160000 +0000" stop="20210221163000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221163000 +0000" stop="20210221170000 +0000" channel="bbc-world">
-    <title lang="pt">Talking Business</title>
-  </programme>
-  <programme start="20210221170000 +0000" stop="20210221173000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221173000 +0000" stop="20210221180000 +0000" channel="bbc-world">
-    <title lang="pt">Our World</title>
-  </programme>
-  <programme start="20210221180000 +0000" stop="20210221183000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221183000 +0000" stop="20210221190000 +0000" channel="bbc-world">
-    <title lang="pt">The Indian Changemakers</title>
-  </programme>
-  <programme start="20210221190000 +0000" stop="20210221191500 +0000" channel="bbc-world">
-    <title lang="pt">BBC World ...</title>
-  </programme>
-  <programme start="20210221191500 +0000" stop="20210221193000 +0000" channel="bbc-world">
-    <title lang="pt">Sport Today</title>
-  </programme>
-  <programme start="20210221193000 +0000" stop="20210221200000 +0000" channel="bbc-world">
-    <title lang="pt">Panorama</title>
-  </programme>
-  <programme start="20210221200000 +0000" stop="20210221201000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221201000 +0000" stop="20210221203000 +0000" channel="bbc-world">
-    <title lang="pt">America's New T...</title>
-  </programme>
-  <programme start="20210221203000 +0000" stop="20210221210000 +0000" channel="bbc-world">
-    <title lang="pt">Follow the Food T.1 Ep.4</title>
-  </programme>
-  <programme start="20210221210000 +0000" stop="20210221213000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221213000 +0000" stop="20210221220000 +0000" channel="bbc-world">
-    <title lang="pt">China's Greatest Treasure...</title>
-  </programme>
-  <programme start="20210221220000 +0000" stop="20210221221000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221221000 +0000" stop="20210221223000 +0000" channel="bbc-world">
-    <title lang="pt">America's New T...</title>
-  </programme>
-  <programme start="20210221223000 +0000" stop="20210221224500 +0000" channel="bbc-world">
-    <title lang="pt">Asia Busin...</title>
-  </programme>
-  <programme start="20210221224500 +0000" stop="20210221225500 +0000" channel="bbc-world">
-    <title lang="pt">Sport Today</title>
-  </programme>
-  <programme start="20210221225500 +0000" stop="20210221230000 +0000" channel="bbc-world">
-    <title lang="pt">Click</title>
-  </programme>
-  <programme start="20210221230000 +0000" stop="20210221233000 +0000" channel="bbc-world">
-    <title lang="pt">BBC World News</title>
-  </programme>
-  <programme start="20210221233000 +0000" stop="20210221234500 +0000" channel="bbc-world">
-    <title lang="pt">Asia Busin...</title>
-  </programme>
-  <programme start="20210221015900 +0000" stop="20210221022400 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 24 Horas T.2...</title>
-  </programme>
-  <programme start="20210221022400 +0000" stop="20210221034800 +0000" channel="benfica-tv-1">
-    <title lang="pt">Futsal - SLB x MVFC Berettyóújfalu - Rep.</title>
-  </programme>
-  <programme start="20210221034800 +0000" stop="20210221044000 +0000" channel="benfica-tv-1">
-    <title lang="pt">Vitórias e Património T.21 Ep.20</title>
-  </programme>
-  <programme start="20210221044000 +0000" stop="20210221050600 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 24 Horas T.21...</title>
-  </programme>
-  <programme start="20210221050600 +0000" stop="20210221060700 +0000" channel="benfica-tv-1">
-    <title lang="pt">Grandes Adeptos SLB T.21 Ep.7</title>
-  </programme>
-  <programme start="20210221060700 +0000" stop="20210221070700 +0000" channel="benfica-tv-1">
-    <title lang="pt">Uma Semana do Melhor</title>
-  </programme>
-  <programme start="20210221070700 +0000" stop="20210221072000 +0000" channel="benfica-tv-1">
-    <title lang="pt">Salão de Jogos T.21 Ep.7</title>
-  </programme>
-  <programme start="20210221072000 +0000" stop="20210221074500 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 24 Horas T.2...</title>
-  </programme>
-  <programme start="20210221074500 +0000" stop="20210221081500 +0000" channel="benfica-tv-1">
-    <title lang="pt">Shift Gear T.21 Ep.6</title>
-  </programme>
-  <programme start="20210221081500 +0000" stop="20210221095900 +0000" channel="benfica-tv-1">
-    <title lang="pt">Liga Revelação - SLB x Boavista - Rep.</title>
-  </programme>
-  <programme start="20210221095900 +0000" stop="20210221104000 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 10 Horas T.21 Ep.52</title>
-  </programme>
-  <programme start="20210221104000 +0000" stop="20210221120300 +0000" channel="benfica-tv-1">
-    <title lang="pt">Basquetebol Feminino - União Sportiva x SLB - Rep.</title>
-  </programme>
-  <programme start="20210221120300 +0000" stop="20210221132700 +0000" channel="benfica-tv-1">
-    <title lang="pt">Andebol - FC Gaia x SLB - Rep.</title>
-  </programme>
-  <programme start="20210221132700 +0000" stop="20210221135900 +0000" channel="benfica-tv-1">
-    <title lang="pt">Off Road Magazine T.21 Ep.9</title>
-  </programme>
-  <programme start="20210221135900 +0000" stop="20210221145700 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 14 Horas T.21 Ep.52</title>
-  </programme>
-  <programme start="20210221145700 +0000" stop="20210221163100 +0000" channel="benfica-tv-1">
-    <title lang="pt">Voleibol - SLB x SC Caldas - Direto</title>
-  </programme>
-  <programme start="20210221163100 +0000" stop="20210221170000 +0000" channel="benfica-tv-1">
-    <title lang="pt">Corporate Club T.21 Ep.8</title>
-  </programme>
-  <programme start="20210221170000 +0000" stop="20210221173000 +0000" channel="benfica-tv-1">
-    <title lang="pt">Notícias T.21 Ep.97</title>
-  </programme>
-  <programme start="20210221173000 +0000" stop="20210221232900 +0000" channel="benfica-tv-1">
-    <title lang="pt">Emissão Especial - Farense x SLB</title>
-  </programme>
-  <programme start="20210221232900 +0000" stop="20210221235400 +0000" channel="benfica-tv-1">
-    <title lang="pt">Benfica 24 Horas T.2...</title>
-  </programme>
+  <channel id="RTPHD">
+    <display-name lang="pt">RTPHD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI HD">
+    <display-name lang="pt">TVI HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Notícias">
+    <display-name lang="pt">SIC Notícias</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI24 HD">
+    <display-name lang="pt">TVI24 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CMTV Portugal">
+    <display-name lang="pt">CMTV Portugal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV +">
+    <display-name lang="pt">Sport TV +</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Globo Básico">
+    <display-name lang="pt">TV Globo Básico</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 11 HD">
+    <display-name lang="pt">Canal 11 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PORTOC HD">
+    <display-name lang="pt">PORTOC HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Caras">
+    <display-name lang="pt">SIC Caras</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Radical">
+    <display-name lang="pt">SIC Radical</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">SIC Mulher</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Memoria">
+    <display-name lang="pt">RTP Memoria</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal Q HD">
+    <display-name lang="pt">Canal Q HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV1">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV4">
+    <display-name lang="pt">SPORT TV4</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV5">
+    <display-name lang="pt">SPORT TV5</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV + HD">
+    <display-name lang="pt">Sport TV + HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 1 HD">
+    <display-name lang="pt">Sport TV 1 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 2 HD">
+    <display-name lang="pt">Sport TV 2 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 3 HD">
+    <display-name lang="pt">Sport TV 3 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 4 HD">
+    <display-name lang="pt">Sport TV 4 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 5 HD">
+    <display-name lang="pt">Sport TV 5 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="A Bola TV HD">
+    <display-name lang="pt">A Bola TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Benfica TV">
+    <display-name lang="pt">Benfica TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Benfica TV HD">
+    <display-name lang="pt">Benfica TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sporting TV">
+    <display-name lang="pt">Sporting TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sporting TV HD">
+    <display-name lang="pt">Sporting TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPTV NBA">
+    <display-name lang="pt">SPTV NBA</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="pt">Eurosport</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="pt">Eurosport HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="pt">Eurosport 2 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 1">
+    <display-name lang="pt">Eleven 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 2">
+    <display-name lang="pt">Eleven 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 3">
+    <display-name lang="pt">Eleven 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 4">
+    <display-name lang="pt">Eleven 4</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 5">
+    <display-name lang="pt">Eleven 5</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 6">
+    <display-name lang="pt">Eleven 6</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fuel TV HD">
+    <display-name lang="pt">Fuel TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Panda">
+    <display-name lang="pt">Panda</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Panda Biggs">
+    <display-name lang="pt">Panda Biggs</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">SIC K</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="pt">Super RTL</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Top">
+    <display-name lang="pt">TVCine Top</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Edition">
+    <display-name lang="pt">TVCine Edition</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Emotion">
+    <display-name lang="pt">TVCine Emotion</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Action">
+    <display-name lang="pt">TVCine Action</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Top HD">
+    <display-name lang="pt">TVCine Top HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Edition HD">
+    <display-name lang="pt">TVCine Edition HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Emotion HD">
+    <display-name lang="pt">TVCine Emotion HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Action HD">
+    <display-name lang="pt">TVCine Action HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Series HD">
+    <display-name lang="pt">TV Series HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Series">
+    <display-name lang="pt">TV Series</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Hollywood HD">
+    <display-name lang="pt">Hollywood HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Hollywood">
+    <display-name lang="pt">Hollywood</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">Cinemundo</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo SD">
+    <display-name lang="pt">Cinemundo SD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="pt">Fox Movies HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="pt">Fox Movies</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox HD">
+    <display-name lang="pt">Fox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Life HD">
+    <display-name lang="pt">Fox Life HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Crime HD">
+    <display-name lang="pt">Fox Crime HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="pt">FOX Crime</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX Comedy">
+    <display-name lang="pt">FOX Comedy</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX Comedy HD">
+    <display-name lang="pt">FOX Comedy HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN White HD">
+    <display-name lang="pt">AXN White HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="pt">AXN White</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN Movies HD">
+    <display-name lang="pt">AXN Movies HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN Movies">
+    <display-name lang="pt">AXN Movies</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SyFy HD">
+    <display-name lang="pt">SyFy HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SyFy SD">
+    <display-name lang="pt">SyFy SD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MTV Portugal">
+    <display-name lang="pt">MTV Portugal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="VH1 Europe">
+    <display-name lang="pt">VH1 Europe</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Stingray Classica HD">
+    <display-name lang="pt">Stingray Classica HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DJAZZ">
+    <display-name lang="pt">DJAZZ</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MCM TOP SD">
+    <display-name lang="pt">MCM TOP SD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">MCM TOP</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="C Music TV">
+    <display-name lang="pt">C Music TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">MEZZO</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AfroMusic Portugal">
+    <display-name lang="pt">AfroMusic Portugal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace TV HD">
+    <display-name lang="pt">Trace TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace TV">
+    <display-name lang="pt">Trace TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace Toca">
+    <display-name lang="pt">Trace Toca</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MEZZO Live HD">
+    <display-name lang="pt">MEZZO Live HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="S+">
+    <display-name lang="pt">S+</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="pt">Discovery HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="pt">Discovery</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nat Geo">
+    <display-name lang="pt">Nat Geo</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="NGC Wild">
+    <display-name lang="pt">NGC Wild</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="História">
+    <display-name lang="pt">História</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Odisseia">
+    <display-name lang="pt">Odisseia</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Odisseia HD">
+    <display-name lang="pt">Odisseia HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Docubox HD">
+    <display-name lang="pt">Docubox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Blaze">
+    <display-name lang="pt">Blaze</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Blaze HD">
+    <display-name lang="pt">Blaze HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Travel HD">
+    <display-name lang="pt">Travel HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Travel">
+    <display-name lang="pt">Travel</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="pt">Fashion TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="pt">Fashion TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="pt">Food Network</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen">
+    <display-name lang="pt">24Kitchen</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="pt">BBC Entertainment</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Melody Zen. TV">
+    <display-name lang="pt">Melody Zen. TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Luxe TV HD">
+    <display-name lang="pt">Luxe TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">CANAL Q</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="GINX">
+    <display-name lang="pt">GINX</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="QYOU HD">
+    <display-name lang="pt">QYOU HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="QYOU SD">
+    <display-name lang="pt">QYOU SD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Globo Now HD">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Globo Now">
+    <display-name lang="pt">Globo Now</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Record HD">
+    <display-name lang="pt">TV Record HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Record">
+    <display-name lang="pt">TV Record</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Euronews EN">
+    <display-name lang="pt">Euronews EN</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pt">Euronews</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pt">Sky News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pt">CNBC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="pt">Al Jazeera English</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RAI News">
+    <display-name lang="pt">RAI News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Phoenix InfoNews">
+    <display-name lang="pt">Phoenix InfoNews</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVE 24h">
+    <display-name lang="pt">TVE 24h</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Deutche Welle">
+    <display-name lang="pt">Deutche Welle</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="France 24 Eng">
+    <display-name lang="pt">France 24 Eng</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="France 24 FR">
+    <display-name lang="pt">France 24 FR</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CMTV HD">
+    <display-name lang="pt">CMTV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 180">
+    <display-name lang="pt">Canal 180</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 180 HD">
+    <display-name lang="pt">Canal 180 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="A Bola TV">
+    <display-name lang="pt">A Bola TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 11">
+    <display-name lang="pt">Canal 11</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canção Nova TV">
+    <display-name lang="pt">Canção Nova TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal Parlamento">
+    <display-name lang="pt">Canal Parlamento</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Localvisão HD">
+    <display-name lang="pt">Localvisão HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Localvisão">
+    <display-name lang="pt">Localvisão</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Africa">
+    <display-name lang="pt">RTP Africa</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TPA Internacional">
+    <display-name lang="pt">TPA Internacional</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVC NEWS">
+    <display-name lang="pt">TVC NEWS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TCVi">
+    <display-name lang="pt">TCVi</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="UATV">
+    <display-name lang="pt">UATV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="pt">VOX</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="pt">RTL</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Galicia">
+    <display-name lang="pt">TV Galicia</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="pt">TVE Internacional</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="KBS">
+    <display-name lang="pt">KBS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RAI 1">
+    <display-name lang="pt">RAI 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PRO TV International">
+    <display-name lang="pt">PRO TV International</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pt">Russia Today</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Russia Today Documentary">
+    <display-name lang="pt">Russia Today Documentary</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cubavision">
+    <display-name lang="pt">Cubavision</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="NHK WORLD TV">
+    <display-name lang="pt">NHK WORLD TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Kuriakos TV">
+    <display-name lang="pt">Kuriakos TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name lang="pt">Arirang TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurochannel PT">
+    <display-name lang="pt">Eurochannel PT</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurochannel FR">
+    <display-name lang="pt">Eurochannel FR</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Touros">
+    <display-name lang="pt">Touros</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Caza &amp; Pesca">
+    <display-name lang="pt">Caza &amp; Pesca</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Caçavision HD">
+    <display-name lang="pt">Caçavision HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Caçavision">
+    <display-name lang="pt">Caçavision</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SET Ásia">
+    <display-name lang="pt">SET Ásia</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Star Plus">
+    <display-name lang="pt">Star Plus</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SET Max">
+    <display-name lang="pt">SET Max</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Star Gold">
+    <display-name lang="pt">Star Gold</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="pt">Nautical Channel</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fightbox HD">
+    <display-name lang="pt">Fightbox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FastnFunbox HD">
+    <display-name lang="pt">FastnFunbox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fight Network HD">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fuel TV">
+    <display-name lang="pt">Fuel TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DOGTV">
+    <display-name lang="pt">DOGTV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Notícias HD">
+    <display-name lang="pt">SIC Notícias HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Globo Básico HD">
+    <display-name lang="pt">TV Globo Básico HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Mulher HD">
+    <display-name lang="pt">SIC Mulher HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Caras HD">
+    <display-name lang="pt">SIC Caras HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Radical HD">
+    <display-name lang="pt">SIC Radical HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC K HD">
+    <display-name lang="pt">SIC K HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPTV 4K">
+    <display-name lang="pt">SPTV 4K</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="ACEPI">
+    <display-name lang="pt">ACEPI</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC H">
+    <display-name lang="pt">SIC H</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP HD">
+    <display-name lang="pt">RTP HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
 </tv>
